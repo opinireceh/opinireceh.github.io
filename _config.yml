@@ -37,8 +37,8 @@ plugins:
 
 # navbar pages
 navbar:
-  - slug : about
-    title: About
+  - slug : tentang
+    title: Tentang
   - slug : blog
     title: Blog
 
