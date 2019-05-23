@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Tentang
-comments: true
 permalink: tentang/
 ---
 
