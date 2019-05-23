@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Opinireceh"
-title_right   : "space" # default: ""
+title_left    : "Opini"
+title_right   : "receh" # default: ""
 description   : "Blog pribadi khusus buat nuangin ide dan pikiran."
 keywords      : "blog, weblog"
 url           : https://opinireceh.github.io/ # site url
